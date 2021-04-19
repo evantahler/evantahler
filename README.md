@@ -10,7 +10,7 @@
       <p>
         I use my Product Management, Software Engineering, and Leadership skills to build teams that create world-class digital products.
       </p> 
-      <p>I am the CTO of <a href="https://www.grouparoo.com">Gropuaroo</a> and the BDFL of the <a href="https://www.actionherojs.com">Actionhero Project</a>.</p>
+      <p>I am the CTO of <a href="https://www.grouparoo.com">Grouparoo</a> and the BDFL of the <a href="https://www.actionherojs.com">Actionhero Project</a>.</p>
       <p>
         <em>Learn more about me @ www.evantahler.com</a>
       </p>
